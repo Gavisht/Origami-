@@ -41,3 +41,23 @@ h2{
 body {
     background-color: #333636;
 }
+a:link{
+    color: darkgrey;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(251, 255, 0);
+}
+a:hover {
+    color: rgb(130, 0, 0);
+    text-decoration: underline;
+}
+
+a:active {
+    color: mediumvioletred;
+}
+
+#item {
+    position:relative
+}
